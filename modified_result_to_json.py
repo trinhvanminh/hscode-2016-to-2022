@@ -2,7 +2,8 @@ import ast
 import json
 import pandas as pd
 
-years = ['2017', '2018', '2019', '2020', '2021', '2022']
+# years = ['2017', '2018', '2019', '2020', '2021', '2022', '2023']
+years = ['2023']
 
 for year in years:
 
